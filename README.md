@@ -1,4 +1,4 @@
-# 🧑‍💻 LeetCode Practice Repository
+# 🧑‍💻 NeetCode Practice Repository
 
 Welcome to my LeetCode practice repository! This space is dedicated to storing my solutions to various algorithmic and data structure problems.
 
